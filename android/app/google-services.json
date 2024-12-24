@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904022408867",
+    "project_id": "citiguid-8dcb2",
+    "storage_bucket": "citiguid-8dcb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904022408867:android:a15c48d2ac9a2154cf4916",
+        "android_client_info": {
+          "package_name": "com.example.citiguid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnN48HgerLz8zCi_zLLND-8EET6-yYfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
