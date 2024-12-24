@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # citiguid
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# City-Guide
+>>>>>>> 6592d13f3273346cbf90e11d4f10ef61b6a24c08
